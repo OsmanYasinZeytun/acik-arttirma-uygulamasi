@@ -1,0 +1,2 @@
+# acik arttirma uygulamasi
+ odev
