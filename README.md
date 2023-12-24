@@ -1,6 +1,9 @@
 # acik arttirma uygulamasi
- main1105_2 ekinde verilen kod C dilinde DevC++ 5.11 ile yazılmış basit bir açık artırma uygulamasıdır ve mantıksal girilen son tekliflerin bir önceki tekliften düşük olması durumunda önceki teklifin kazanan olarak belirlenmesini içerir. 
+
 Ekin Ali Karahan 1230505045 || Osman Yasin Zeytun 1230505030 Yazılım Mühendisliği 1 Güz Dönemi 2.Kısa Sınav 
+
+ 
+ main1105_2 ekinde verilen kod C dilinde DevC++ 5.11 ile yazılmış basit bir açık artırma uygulamasıdır ve mantıksal girilen son tekliflerin bir önceki tekliften düşük olması durumunda önceki teklifin kazanan olarak belirlenmesini içerir. 
 
 
 Yapı ve Tip Tanımı:
